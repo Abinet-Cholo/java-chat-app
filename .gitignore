@@ -1,0 +1,32 @@
+# Maven build
+/target/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# SQLite DB
+chat.db
+test.db
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Temp files
+*~
+
